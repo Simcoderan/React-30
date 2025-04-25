@@ -5,6 +5,7 @@ import Three from "./Three.jsx";
 import  Four from "./Four.jsx";
 import  Five from "./Five.jsx";
 import  Six from "./Six.jsx";
+import  Seven from "./Seven.jsx";
 
 function App() {
   return (
@@ -15,7 +16,8 @@ function App() {
    {/*<Three/>*/}
    {/*<Four/>*/}
    {/*<Five/> */}
-   <Six/>
+   { /*<Six/>*/}
+   <Seven/>
 
     </div>
   )
